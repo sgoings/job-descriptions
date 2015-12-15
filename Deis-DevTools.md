@@ -2,8 +2,8 @@
 
 ## We Are
 
-We are passionate about improving the way the world builds, tests, delivers,
-and operates software. We are:
+Our passions revolve around improving how the world builds, tests, delivers,
+and operates software. We practice what we preach. We are:
 
 - caring individuals
 - open source advocates
