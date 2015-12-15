@@ -72,8 +72,8 @@ You'll jump across a few CI systems like [Travis CI][travis] and
 
 ### 4. Release Management Techniques
 
-You'll keep a close eye on the full release lifecycle to find and remove
-inefficiencies inn the delivery pipeline.
+You'll keep a close eye on the full software development lifecycle to find and
+remove inefficiencies in the delivery pipeline.
 
 [aws]: http://aws.amazon.com/
 [azure]: https://azure.microsoft.com/en-us/
