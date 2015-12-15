@@ -17,8 +17,6 @@ and operates software. We are:
 - [deis][deis] - the fully open source Heroku-workflow inspired Platform as a
 Service for [Docker][docker] containers
 - [helm][helm] - the package manager for Kubernetes
-- [kubernetes.io][kubernetes] - an open source orchestration system for
-[Docker][docker] containers
 
 ## You Might Be
 
@@ -49,11 +47,13 @@ maintain the user experience people have come to expect with the Deis product
 offerings, we need someone to help us further refine our:
 
 ### 1. Developer Tooling
-You'll tie things together with projects like [glide][glide], [wercker][wercker], and
-make. You'll use open source provisioning toolkits such as [rigger][rigger]
-which use [Terraform][terraform] under the hood. When you have to break out of
-the mold and write a new tool, you might choose languages like Golang, Shell,
-Make, or Python.
+
+First and foremost you'll get to work with and improve the [Kubernetes][kubernetes]
+ecosystem. You'll tie projects together with tools like [glide][glide],
+[wercker][wercker], and make. You'll use open source provisioning toolkits such
+as [rigger][rigger] which use [Terraform][terraform] under the hood. When you
+decide to break out of the mold and write a new tool, you'd be writing in
+Golang, Shell, Make, and Python.
 
 ### 2. Automated Testing
 
@@ -65,11 +65,13 @@ you're not afraid to pull out the bash bazooka to prove applications do
 (or don't do) what they promise.
 
 ### 3. CI/CD Systems
+
 You'll jump across a few CI systems like [Travis CI][travis] and
 [Jenkins][jenkins] to deliver packages and binaries to [Docker Hub][dockerhub],
 [Quay.io][quay], and [Bintray][bintray].
 
 ### 4. Release Management Techniques
+
 You'll keep a close eye on the full release lifecycle to find and remove
 inefficiencies inn the delivery pipeline.
 
