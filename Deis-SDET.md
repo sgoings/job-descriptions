@@ -25,7 +25,7 @@ Conversely, you can't stand testing something that could easily be done by a
 machine.
 
 2. A contributor who jumps into action when you hear "it works on my machine."
-You also go the extra mile to implement a solution such that no human ever
+You go the extra mile to implement a solution such that no human ever
 experiences that same situation again.
 
 2. A master of sandbox testing. You strive to create disposable environments
