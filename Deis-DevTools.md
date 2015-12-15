@@ -28,7 +28,7 @@ Service for [Docker][docker] containers
   - 12 factor applications
 
 2. A scrupulous process observer with a desire to remove manual steps from other
-engineers' day to day workflow in order to reduce hindrances to achieving
+engineers' day to day workflow in order to reduce hindrances in achieving
 [flow][flow].
 
 3. A product _and_ people centric engineer. You ponder ways to create
