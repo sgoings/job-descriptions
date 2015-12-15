@@ -49,7 +49,7 @@ maintain the user experience people have come to expect with the Deis product
 offering, we need someone to help us with further refining our:
 
 ### 1. Developer Tooling
-You'll tie things together with projects like [glide], [wercker][wercker], and
+You'll tie things together with projects like [glide][glide], [wercker][wercker], and
 make. You'll use open source provisioning toolkits such as [rigger][rigger]
 which use [Terraform][terraform] under the hood. When you have to break out of
 the mold and write a new tool, you might choose languages like Golang, Shell,
@@ -75,20 +75,22 @@ inefficiencies inn the delivery pipeline.
 
 [aws]: http://aws.amazon.com/
 [azure]: https://azure.microsoft.com/en-us/
-[gke]: https://cloud.google.com/container-engine/
-[do]: https://digitalocean.com
-[flow]: https://en.wikipedia.org/wiki/Flow_(psychology)
-[joelux]: http://www.joelonsoftware.com/uibook/chapters/fog0000000062.html
-[deis]: http://deis.io/
-[helm]: http://helm.sh/
-[travis]: https://travis-ci.org/deis
-[jenkins]: https://ci.deis.io
-[quay]: https://quay.io/
 [bintray]: https://bintray.com/
+[deis]: http://deis.io/
+[do]: https://digitalocean.com
+[docker]: https://www.docker.com/
 [dockerhub]: https://hub.docker.com/
+[flow]: https://en.wikipedia.org/wiki/Flow_(psychology)
 [ginkgo]: http://onsi.github.io/ginkgo/
+[gke]: https://cloud.google.com/container-engine/
+[glide]: https://github.com/Masterminds/glide
+[glide]: https://github.com/Masterminds/glide
+[helm]: http://helm.sh/
+[jenkins]: https://ci.deis.io
+[joelux]: http://www.joelonsoftware.com/uibook/chapters/fog0000000062.html
+[kubernetes]: http://kubernetes.io/
+[quay]: https://quay.io/
 [rigger]: https://github.com/deis/rigger
 [terraform]: https://www.terraform.io/
-[kubernetes]: http://kubernetes.io/
+[travis]: https://travis-ci.org/deis
 [wercker]: http://wercker.com/
-[docker]: https://www.docker.com/
