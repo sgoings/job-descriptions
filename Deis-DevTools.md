@@ -46,7 +46,7 @@ Computers are great, but they're only one of your interests.
 The Deis team loves creating components that the open source community at large
 can seamlessly plug into their existing toolsets and workflows. In order to
 maintain the user experience people have come to expect with the Deis product
-offering, we need someone to help us with further refining our:
+offerings, we need someone to help us further refine our:
 
 ### 1. Developer Tooling
 You'll tie things together with projects like [glide][glide], [wercker][wercker], and
