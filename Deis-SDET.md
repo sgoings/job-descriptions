@@ -72,6 +72,8 @@ valuable feedback to the team on every change to the codebase.
 
 You'll help build an information radiator that provides a visual representation
 of each component's current status, quality history, and runtime performance.
+Additionally, it will provide an overarching view of the health of all our
+systems.
 
 [aws]: http://aws.amazon.com/
 [azure]: https://azure.microsoft.com/en-us/
