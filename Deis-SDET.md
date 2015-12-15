@@ -20,24 +20,28 @@ Service for [Docker][docker] containers
 
 ## You Might Be
 
-1. A champion of industry best practices such as:
+1. A person who doesn't accept the statement: "That could never be automated."
+Conversely, you can't stand testing something that could easily be done by a
+machine.
 
-  - continuous integration
-  - continuous delivery
-  - automated testing
-  - 12 factor applications
+2. A contributor who jumps into action when you hear "it works on my machine."
+You also go the extra mile to implement a solution such that no human ever
+experiences that same situation again.
 
-2. A scrupulous process observer with a desire to remove manual steps from other
-engineers' day to day workflow in order to reduce hindrances in achieving
-[flow][flow].
+2. A master of sandbox testing. You strive to create disposable environments
+in order to ease issue reproduction for anyone on the team. You're not afraid
+to get into the code and instrument some test doubles, mocks, and stubs.
+You might also get crazy and [mock an entire third party component][mbtest] in
+order to coerce the service's dependencies into a bad state.
 
-3. A product _and_ people centric engineer. You ponder ways to create
-a [better user experience][joelux] as well as lower the barrier to entry for
-open source contributors who might just take your software to a level never
-before imagined.
+3. A manager of [chaos monkeys][chaos]. Despite all the work you put into tests that are
+exercised before changes get pushed out to production, you understand that a
+well trusted and trained simian army is your best ally to uncover hard to
+reproduce problems and performance issues.
 
 4. An avid learner. You like keeping abreast on a wide variety of subjects.
-Computers are great, but they're only one of your interests.
+Testing is great, but [GTAC][gtac] isn't the only conference you care
+about.
 
 ## What You'll Be Working On
 
@@ -79,6 +83,7 @@ of each component's current status, quality history, and runtime performance.
 [flow]: https://en.wikipedia.org/wiki/Flow_(psychology)
 [ginkgo]: http://onsi.github.io/ginkgo/
 [gke]: https://cloud.google.com/container-engine/
+[gtac]: https://developers.google.com/google-test-automation-conference/
 [glide]: https://github.com/Masterminds/glide
 [glide]: https://github.com/Masterminds/glide
 [helm]: http://helm.sh/
@@ -92,3 +97,5 @@ of each component's current status, quality history, and runtime performance.
 [wercker]: http://wercker.com/
 [bats]: https://github.com/sstephenson/bats
 [roundup]: http://bmizerany.github.io/roundup/
+[chaos]: https://github.com/Netflix/SimianArmy
+[mbtest]: http://www.mbtest.org/
