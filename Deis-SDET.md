@@ -1,22 +1,6 @@
 # Software Development Engineer in Test (SDET), Deis
 
-## We Are
-
-Our passions revolve around improving how the world builds, tests, delivers,
-and operates software. We practice what we preach. We are:
-
-- caring individuals
-- open source advocates
-- conference presenters and organizers
-- new technology and language early adopters
-- composable software creators
-- seasoned (dev)ops personnel
-
-## We're Known For
-
-- [deis][deis] - the fully open source Heroku-workflow inspired Platform as a
-Service for [Docker][docker] containers
-- [helm][helm] - the package manager for Kubernetes
+<< common.md >>
 
 ## You Might Be
 
@@ -42,8 +26,6 @@ reproduce problems and performance issues.
 4. An avid learner. You like keeping abreast on a wide variety of subjects.
 Testing is great, but [GTAC][gtac] isn't the only conference you care
 about.
-
-## What You'll Be Working On
 
 ## The Duties
 
